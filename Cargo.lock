@@ -678,7 +678,7 @@ dependencies = [
 
 [[package]]
 name = "pprof"
-version = "0.13.0"
+version = "0.12.1"
 dependencies = [
  "backtrace",
  "cfg-if",
